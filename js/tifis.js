@@ -104,7 +104,7 @@ function confirmarIzquierda() {
 
 function confirmarDerecha() {
 	tifis.derOK = true;
-	sdibujar();
+	dibujar();
 }
 
 function confirmarLiz() {
