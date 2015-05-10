@@ -83,28 +83,28 @@ function dibujar() {
 
 function confirmarFondo() {
 	fondo.imagenOK = true;
-	//dibujar();
+	dibujar();
 }
 
 function confirmarFrente() {
 	tifis.frenteOK = true;
-	//dibujar();
+	dibujar();
 }
 
 function confirmarAtras() {
 	tifis.atrasOK = true;
 	console.log("Dibuja");
-	//dibujar();
+	dibujar();
 }
 
 function confirmarIzquierda() {
 	tifis.izqOK = true;
-	//dibujar();
+	dibujar();
 }
 
 function confirmarDerecha() {
 	tifis.derOK = true;
-	//dibujar();
+	sdibujar();
 }
 
 function confirmarLiz() {
